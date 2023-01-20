@@ -1,0 +1,20 @@
+.main-footer {
+  color: white;
+  background-color: orange;
+  padding-top: 1em;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
+p {
+  color: blue;
+  text-align: center;
+  margin-top: 15px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+h2 {
+  color: blue;
+  text-align: center;
+}
